@@ -4,7 +4,9 @@
 > Welcome to Bash Tools Community Collection®. An ongoing & curated collection of awesome software libraries, learning tutorials, Useful links & scripts, tools, resources and cool stuff about Bash Scripting.
 > Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
-> [Fish](https://fishshell.com/) is a smart & user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike other shells, which disable certain features by default to save system resources, Fish enables all features by default—finally, a command line shell for the 90s!
+### About Friendly Interative Shell (Fish)
+
+- [Fish](https://fishshell.com/) is a smart & user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike other shells, which disable certain features by default to save system resources, Fish enables all features by default—finally, a command line shell for the 90s!
 
 
 

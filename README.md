@@ -1,25 +1,25 @@
 
-# (Friendly Interative Shell) Fish Collection of Tools
+# Friendly Interative Shell (Fish) Collection of Tools
 
 > Welcome to Bash Tools Community Collection®. An ongoing & curated collection of awesome software libraries, learning tutorials, Useful links & scripts, tools, resources and cool stuff about Bash Scripting.
 > Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 > [Fish](https://fishshell.com/) is a smart & user-friendly command line shell for Linux, macOS, and the rest of the family. Unlike other shells, which disable certain features by default to save system resources, Fish enables all features by default—finally, a command line shell for the 90s!
 
-A curation of plugins, prompts, and resources for the [friendly interactive shell](https://fishshell.com). This page is not an official Fish project. We do not to advertise for profit. Want to have your project featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork).
+
 
 ## Official Resources
 
 - [Official Site](https://fishshell.com)
 - [GitHub Repository](https://github.com/fish-shell/fish-shell)
-- [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
+- [Try in browser!](https://rootnroll.com/d/fish-shell/)
 
 ## Community Resources
 
 - [r/fishshell](https://www.reddit.com/r/fishshell)
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 🍣
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish)
 
 ## Prompts
 
